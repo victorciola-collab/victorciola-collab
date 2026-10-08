@@ -54,38 +54,6 @@ Desenvolvo aplicações, dashboards, automações e ferramentas que conectam tec
 
 ---
 
-## Projetos em destaque
-
-### Aplicativo de Gestão de Movimentações
-**Power Apps | Power Automate | SharePoint**
-
-Solução corporativa para digitalização e gestão de solicitações de movimentação de colaboradores.
-
-Centraliza solicitações, organiza fluxos de aprovação, automatiza notificações e permite acompanhar o processo até sua conclusão.
-
-### Planejador de Espaço Corporativo
-**JavaScript | HTML | CSS | Análise de Dados**
-
-Ferramenta interativa para planejamento e simulação de ocupação de espaços corporativos.
-
-Permite distribuir equipes, avaliar capacidade, comparar cenários e gerar informações gerenciais para apoiar decisões.
-
-### Gestão de Smartworking
-**Power Apps | Power BI | Power Automate | SharePoint**
-
-Solução de monitoramento do cumprimento do modelo de trabalho híbrido.
-
-Integra acompanhamento de presença, tratamento de justificativas, indicadores gerenciais e notificações automatizadas.
-
-### Portal de Indicadores e Relatórios
-**Power BI | SharePoint | HTML | CSS**
-
-Ambiente digital para centralização de relatórios, indicadores, materiais de orientação e informações de gestão.
-
-Facilita o acesso às informações e contribui para uma análise mais estruturada dos dados.
-
----
-
 <div align="center">
 
 ## Conheça meu portfólio
