@@ -5,8 +5,6 @@
 
 ### Data Analytics | Business Intelligence | Automação de Processos
 
-**Transformando dados, processos e desafios de negócio em soluções digitais.**
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-Ver_Projetos-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://victorciola-collab.github.io/)
 
